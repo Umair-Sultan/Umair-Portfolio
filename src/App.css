@@ -1,0 +1,158 @@
+@media (min-width: 992px) {
+
+    .top-btn {
+        display: flex;
+        justify-content: center;
+        margin-bottom: -2.3rem;
+        width: 100%;
+        border-radius: 1rem;
+        margin-top: 5rem;
+    }
+
+    .back-to-top-btn {
+        width: 91%;
+    }
+
+    .hr1 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 7rem;
+        margin-bottom: -7rem;
+        width: 80%;
+    }
+
+    .hr2 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+        width: 80%;
+    }
+
+    .hr3 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+        width: 80%;
+    }
+
+    .hr4 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+        width: 80%;
+    }
+
+    .hr5 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+        width: 80%;
+    }
+
+}
+
+/* Mobile only (max-width: 991px) */
+@media (max-width: 991px) {
+
+    .top-btn {
+        display: flex;
+        justify-content: center;
+        margin-bottom: -2.3rem;
+        width: 100%;
+        border-radius: 1rem;
+        margin-top: 5rem;
+    }
+
+    .back-to-top-btn {
+        width: 100%;
+    }
+
+    .hr1 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+    .hr2 {
+        background-color: grey;
+        height: 1px;
+        margin-top: -12rem;
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+    .hr3 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 25rem;
+        margin-bottom: -15rem;
+        width: 80%;
+    }
+
+    .hr4 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 80rem;
+        margin-bottom: -75rem;
+        width: 80%;
+    }
+
+    .hr5 {
+        background-color: grey;
+        height: 1px;
+        margin-top: -9rem;
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+}
+
+/* Tablet screens (768px–991px) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .hr1 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 15rem;
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+    .hr2 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 7rem;
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+    .hr3 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 10rem;
+        margin-bottom: 45rem;
+        width: 80%;
+    }
+
+    .hr4 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 20rem;
+        width: 80%;
+    }
+
+    .hr5 {
+        background-color: grey;
+        height: 1px;
+        margin-top: 10rem;
+        margin-bottom: 5rem;
+        width: 80%;
+    }
+
+}

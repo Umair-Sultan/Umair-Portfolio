@@ -1,0 +1,165 @@
+@media (min-width: 992px) {
+
+    .about-section{
+        margin-top: 10rem;
+        width: 80%;
+        height: 60rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .about-section-1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 2rem;
+        gap: 5rem;
+        margin-bottom: 1rem;
+    }
+
+    .about-section-detail{
+        font-size: 1.2rem;
+        text-align: justify;
+    }
+
+    .about-section-img img{
+        height: 15rem;
+    }
+
+    .about-section-2{
+        height: 8rem;
+        display: flex;
+        align-items: center;
+        gap: 7rem;
+        padding-left: 7%;
+    }
+
+    .umt-logo img{
+        height: 5rem;
+    }
+
+    .about-section-3{
+        height: 8rem;
+        display: flex;
+        align-items: center;
+        gap: 7rem;
+        padding-left: 7%;
+        margin-bottom: 1rem;
+    }
+
+    .paec-logo img{
+        height: 5rem;
+    }
+
+    .about-section-4{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        gap: 2rem;
+    }
+
+    .skills{
+        margin-left: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .percentage{
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+        width: 400%;
+        margin-right: 5%;
+    }
+}
+
+/* Mobile only (max-width: 991px) */
+@media (max-width: 991px) {
+
+    .about-section{
+        margin-top: 5rem;
+        width: 90%;
+        height: 60rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-section-1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 1.5rem;
+        padding: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .about-section-detail{
+        font-size: 0.7rem;
+        text-align: justify;
+    }
+
+    .about-section-img img{
+        height: 7rem;
+    }
+
+    .about-section-2{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+        height: 5rem;
+        padding: 1rem;
+        margin-left: 1rem;
+    }
+
+    .umt-logo img{
+        height: 4rem;
+    }
+
+    .uni-detail h6{
+        font-size: 0.5rem;
+    }
+
+    .about-section-3{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1.5rem;
+        height: 5rem;
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 1rem;
+    }
+
+    .paec-logo img{
+        height: 4rem;
+    }
+
+    .clg-detail h6{
+        font-size: 0.5rem;
+    }
+
+    .about-section-4{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+    }
+
+    .skills{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .percentage{
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+}

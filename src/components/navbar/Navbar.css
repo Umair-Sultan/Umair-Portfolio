@@ -1,0 +1,48 @@
+/* Desktop only (min-width: 992px = lg and up) */
+@media (min-width: 992px) {
+
+    .navbar-fluid {
+        height: 8rem;
+    }
+
+    .my-container {
+        margin-left: 5rem;
+        gap: 30%;
+        height: 4rem;
+        font-size: 1rem;
+    }
+
+    .navbar-brand {
+        font-size: 1.5rem;
+    }
+
+    .navbar {
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 0.5%;
+        border-radius: 3rem;
+        background: transparent;
+        box-shadow: none;
+    }
+
+
+}
+
+/* Mobile only (max-width: 991px) */
+@media (max-width: 991px) {
+
+    .navbar-fluid {
+        height: 5rem;
+    }
+
+    .navbar {
+        width: 100%;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-top: 1%;
+        border-radius: 0.3rem;
+        background: transparent;
+        box-shadow: none;
+    }
+
+}
