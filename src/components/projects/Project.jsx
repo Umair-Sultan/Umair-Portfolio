@@ -67,9 +67,9 @@ const Project = () => {
                         <div className="card text-bg-primary">
                             <img src={currencyconverter} className="card-img-top fixed-img" alt="..." />
                             <div className="card-body">
-                                <h5 className="card-title">To Do List App </h5>
+                                <h5 className="card-title">Currency Converter App</h5>
                                 <p className="card-text">
-                                    I make this To Do List using HTML, CSS and JS.
+                                    I make this Currency Converter app using HTML, CSS and JS.
                                 </p>
                                 <a href="https://github.com/Umair-Sultan/Currency-Converter-App.git" class="btn btn-info">GitHub Link</a>
                             </div>
@@ -79,9 +79,9 @@ const Project = () => {
                         <div className="card text-bg-primary">
                             <img src={rockpapergame} className="card-img-top fixed-img" alt="..." />
                             <div className="card-body">
-                                <h5 className="card-title">To Do List App </h5>
+                                <h5 className="card-title">Rock Paper Scissor Game</h5>
                                 <p className="card-text">
-                                    I make this To Do List using HTML, CSS and JS.
+                                    I make this Rock Paper Scissor game using HTML, CSS and JS.
                                 </p>
                                 <a href="https://github.com/Umair-Sultan/Rock-Paper-Scissor-Game-in-JS.git" class="btn btn-info">GitHub Link</a>
                             </div>
