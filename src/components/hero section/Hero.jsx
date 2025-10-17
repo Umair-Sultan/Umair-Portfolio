@@ -20,7 +20,7 @@ const Hero = () => {
 
       <div className="container-fluid hero-buttons">
         <a
-          href="/Resume.pdf"
+          href="/Umair_Sultan_Resume.pdf"
           download="Umair_Sultan_Resume.pdf"
           className="btn btn-primary btn-lg"
         >

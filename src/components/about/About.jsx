@@ -17,7 +17,7 @@ const About = () => {
           </div>
 
           <div className="container-fluid about-section-detail">
-            <p>"Hi, I'm Umair Sultan, a Software Engineering student with a strong passion for web and game development. I enjoy creating interactive and user-friendly applications, from building student portals and e-commerce platforms to experimenting with Unity game environments. My technical toolkit includes HTML, CSS, JavaScript, Node.js, and MySQL, and I’m constantly exploring new technologies to improve my skills. Beyond coding, I love sketching and running my art channel, ‘The Pencil Portal.’ My goal is to keep learning, building, and contributing to impactful projects that make technology more accessible and exciting."</p>
+            <p>"Hi, I'm Umair Sultan, a Software Engineering student with a strong passion for web development and game development. I enjoy creating interactive and user-friendly applications, from building student portals and e-commerce platforms to experimenting with Unity game environments. My technical toolkit includes HTML, CSS, JavaScript, Node.js, Swift, React, Bootstrap and MySQL, and I’m constantly exploring new technologies to improve my skills. Also i have a youtube channel, ‘Code with Umair.’ My goal is to keep learning, building, and contributing to impactful projects that make technology more accessible and exciting."</p>
           </div>
 
         </div>
@@ -59,6 +59,7 @@ const About = () => {
             <h4>HTML</h4>
             <h4>CSS</h4>
             <h4>JS</h4>
+            <h4>Swift</h4>
           </div>
 
           <div className="container-fluid percentage">
@@ -98,6 +99,19 @@ const About = () => {
             >
               <div className="progress-bar" style={{ width: "75%" }}>
                 75%
+              </div>
+            </div>
+
+            <div
+              className="progress"
+              role="progressbar"
+              aria-label="Example with label"
+              aria-valuenow={25}
+              aria-valuemin={0}
+              aria-valuemax={100}
+            >
+              <div className="progress-bar" style={{ width: "75%" }}>
+                70%
               </div>
             </div>
 
